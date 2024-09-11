@@ -1,5 +1,5 @@
 # Soft Self-Consistency Improves Language Model Agents
-Code for the paper [Soft Self-Consistency Improves Language Model Agents](https://arxiv.org/abs/2402.13212).
+Code for the paper [Soft Self-Consistency Improves Language Model Agents](https://arxiv.org/abs/2402.13212) (ACL 2024).
 
 ## Requirements
 You can install required packages by running the following command:
@@ -102,10 +102,10 @@ We sincerely thank the authors of [InterCode](https://github.com/princeton-nlp/i
 
 ## Citation
 ```bibtex
-@article{wang2024soft,
+@inproceedings{wang-etal-2024-soft,
     title={Soft Self-Consistency Improves Language Model Agents}, 
     author={Han Wang and Archiki Prasad and Elias Stengel-Eskin and Mohit Bansal},
-    journal={arXiv preprint arXiv:2402.13212},
-    year={2024}
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    year={2024},
 }
 ```
